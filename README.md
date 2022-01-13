@@ -4,3 +4,8 @@ Click the 'Product' link to download the folder. Open the folder, and access the
 
 ## Exploring the Mathematics behind Ant Colony Optimization
 Solving the Travelling Salesman Problem by utlizing Ant Colony Optimization and Graph Theory
+![image](https://user-images.githubusercontent.com/57491361/149254255-b1c01b53-ce77-44fd-b5ab-b398765443c0.png)
+
+
+![image](https://user-images.githubusercontent.com/57491361/149254186-2fe19178-bab9-4434-af8e-24e954d17756.png)
+
